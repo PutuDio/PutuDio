@@ -7,13 +7,12 @@
 💻 Web Developer who enjoys building scalable, responsive, and modern web applications.
 </div>
 
-<div align="center">
-  #🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/putudiooo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/putudiokenneta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:putudiokenneta) 
-</div>
+###
 
 <div align="center">
-  #💻 Tech Stack:
+  💻 Tech Stack:
+</div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
@@ -53,3 +52,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PutuDio&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
