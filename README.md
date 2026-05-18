@@ -5,7 +5,7 @@
 </div>
 
 ###
-<h1 align="center">💻 Web Developer who enjoys building scalable, responsive, and modern web applications.</h1>
+<h1 align="center">💻 Web Developer Who Enjoys Building Scalable, Responsive, And Modern Web Applications.</h1>
 
 <div>
   <h3 align="center">Tech Stack</h3>
@@ -56,6 +56,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PutuDio&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+<h3>Play Game With Me</h3>
 ###
 
 <br clear="both">
