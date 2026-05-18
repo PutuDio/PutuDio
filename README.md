@@ -57,20 +57,16 @@
 ![](https://github-profile-trophy.vercel.app/?username=PutuDio&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <h3>Play Game With Me</h3>
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/PutuDio/PutuDio/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PutuDio/PutuDio/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PutuDio/PutuDio/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PutuDio/PutuDio/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
