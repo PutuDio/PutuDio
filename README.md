@@ -16,7 +16,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PutuDio&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=PutuDio&icon=3&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
