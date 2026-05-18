@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/d3dadbab-3361-4672-b775-e027802a93fb" />
 
 <!--
 **PutuDio/PutuDio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
