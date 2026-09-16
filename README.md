@@ -53,8 +53,8 @@
   <br /><br />
 
   <!-- Tools & Design -->
-  <h3>Design & Workspace <span>(The Workshop)</span></h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" title="VS Code" />
+  <h3>Workspace & Design <span>(The Workshop)</span></h3>
+  <img src="https://img.shields.io/badge/Antigravity_IDE-1F2937?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity IDE" title="Antigravity IDE" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" title="Figma" />
   &nbsp;&nbsp;
