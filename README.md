@@ -5,11 +5,6 @@
 
 <br />
 
-<!-- MARVEL / HERO ANIMATION -->
-<div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Iron Man HUD / Marvel Gif" />
-</div>
-
 <br />
 
 <!-- TAGLINE & PROFILE TITLE -->
