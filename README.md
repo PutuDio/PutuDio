@@ -4,14 +4,67 @@
 </div>
 
 <br />
+<p align="center">
+  Information Systems graduate with a strong interest in web development, cybersecurity, and modern digital technologies.
+  I specialize in Fullstack Web Development with a primary focus on Frontend Engineering, building responsive, user-friendly, and reliable web applications.
+  My experience includes developing monitoring systems, dashboard applications, and digital solutions that help organizations improve service reliability, security, and user experience.
+</p>
 
-<br />
+<p align="center">
+  https://your-portfolio.com
+    https://img.shields.io/badge/Portfolio-Visit_Website-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44
+  </a>
+  your@email.com
+    <img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" />
+  </a>
+  https://linkedin.com/in/yourusername
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" />
+  </a>
+</p>
 
-<!-- TAGLINE & PROFILE TITLE -->
-<div align="center">
-  <h1>⚡ "I build web applications. What's your superpower?"</h1>
-  <p><b>Frontend & Backend Web Developer</b> crafting scalable systems, and modern digital experiences.</p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?usernameame&style=for-the-badge&color=6B8E6E&label=Profile+Views
+</p>
+
+<img align="right" src="./img/profile.🎓 Information Systems Graduate passionate about technology and digital innovation
+- 💻 Fullstack Web Developer with a strong focus on Frontend Development
+- 🛡️ Developed an External Website Monitoring Dashboard for public service websites during an internship at Denpasar City Communication and Informatics Office (Diskominfo)
+- 🔍 Implemented monitoring for website uptime, HTTP errors, SSL expiration, content modifications, and defacement incidents
+- 📊 Experienced in dashboard development, system monitoring, API integration, and database management
+- 🚀 Passionate about building modern, responsive, and user-centered web applications
+- 🌱 Continuously learning through personal projects, open-source resources, and emerging technologies
+- 🧩 Enjoy transforming complex problems into clear, scalable, and maintainable solutions
+- 🤝 Comfortable working independently and collaboratively in team environments
+
+<br clear="right" />
+
+### 🌿 What I'm Building Toward
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌱 Direction**
+
+- Building modern and reliable web applications
+- Creating solutions that improve user experience and operational efficiency
+- Developing secure and maintainable digital systems
+- Combining frontend excellence with robust backend architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+**🔭 Current Focus**
+
+- Next.js, React, TypeScript, and modern frontend architecture
+- Fullstack web application development
+- Website monitoring and cybersecurity awareness
+- API integration, databases, and system optimization
+
+</td>
+</tr>
+</table>
 
 <hr />
 
