@@ -160,4 +160,4 @@
 
 <br />
 
-<img src="./assets/Marvel.mp4" width="100%" />
+<img src="./assets/Marvel.gif" width="100%" />
