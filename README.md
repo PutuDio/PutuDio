@@ -10,11 +10,12 @@
   My experience includes developing monitoring systems, dashboard applications, and digital solutions that help organizations improve service reliability, security, and user experience.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?usernameame&style=for-the-badge&color=6B8E6E&label=Profile+Views
-</p>
+<br />
+<img align="right" src="./img/sides.gif" width="270" />
 
-<img align="right" src="./img/profile.🎓 Information Systems Graduate passionate about technology and digital innovation
+<h3>📚 About Me</h3>
+
+- 🎓 Information Systems Graduate passionate about technology and digital innovation
 - 💻 Fullstack Web Developer with a strong focus on Frontend Development
 - 🛡️ Developed an External Website Monitoring Dashboard for public service websites during an internship at Denpasar City Communication and Informatics Office (Diskominfo)
 - 🔍 Implemented monitoring for website uptime, HTTP errors, SSL expiration, content modifications, and defacement incidents
@@ -23,10 +24,10 @@
 - 🌱 Continuously learning through personal projects, open-source resources, and emerging technologies
 - 🧩 Enjoy transforming complex problems into clear, scalable, and maintainable solutions
 - 🤝 Comfortable working independently and collaboratively in team environments
-
+</p>
 <br clear="right" />
 
-### 🌿 What I'm Building Toward
+<h3>🌿 What I'm Building Toward</h3>
 
 <table>
 <tr>
