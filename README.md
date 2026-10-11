@@ -11,18 +11,6 @@
 </p>
 
 <p align="center">
-  https://your-portfolio.com
-    https://img.shields.io/badge/Portfolio-Visit_Website-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44
-  </a>
-  your@email.com
-    <img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" />
-  </a>
-  https://linkedin.com/in/yourusername
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?usernameame&style=for-the-badge&color=6B8E6E&label=Profile+Views
 </p>
 
