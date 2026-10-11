@@ -11,7 +11,7 @@
 </p>
 
 <br />
-<img align="right" src="./img/sides.gif" width="270" />
+<img align="right" src="./assets/sides_transparent.gif" width="270" />
 
 <h3>📚 About Me</h3>
 
@@ -59,7 +59,14 @@
 
 <!-- TECH STACK SECTION -->
 <div align="center">
-  <h2>Tactical Tech Stack</h2>
+  <h2>
+    <div>
+      Tactical Tech Stack
+    </div>
+    <br />
+    <div align="center">
+      <img src="./assets/Lucu2.gif" width="270" />
+    </div></h2>
   <p>Tools and technologies I use to assemble digital solutions:</p>
   <br />
 
@@ -152,3 +159,5 @@
 </div>
 
 <br />
+
+<img src="./assets/Marvel.mp4" width="100%" />
