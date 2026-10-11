@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img width="100%" alt="github-header-banner" src="./assets/Banner.png" />
+  <img width="100%" alt="github-header-banner" src="./assets/Profile_Banner.png" />
 </div>
 
 <br />
