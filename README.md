@@ -57,6 +57,7 @@
 </table>
 
 <hr />
+<br />
 <!-- TECH STACK SECTION -->
 <div align="center">
   <h3>TACTICAL TECH STACK</h3>
@@ -120,6 +121,7 @@
 </table>
   
 <hr />
+<br />
 <!-- STATS SECTION -->
 <div align="center">
   <h3>STARK INDUSTRIES TELEMENTRY & STATS</h3>
@@ -130,12 +132,11 @@
 </div>
 
 <hr />
-
+<br />
 <!-- MINI GAMES & CONTRIBUTION GRAPH -->
 <div align="center">
   <h3>ARCADE & CONTRIBUTION GRID </h3>
   <p>Watch the contribution bots in action:</p>
-  <br />
   
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/PutuDio/PutuDio/snake-output/snake.svg" alt="Snake animation" width="100%" />
@@ -151,13 +152,13 @@
 </div>
 
 <hr />
-
+<br />
 <!-- SOCIALS & CONTACT -->
 <div align="center">
   <h3>ESTABLISH CONNECTION</h3>
   <p>Need a developer for your next mission? Let's connect.</p>
   
-  <div align="left">
+  <div align="center">
     <a href="https://www.instagram.com/putudiooo/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
     </a>
@@ -170,6 +171,7 @@
   </div>
 </div>
 
-<br />
-
+<br /><br />
+<hr />
+<br /><br />
 <img src="./assets/Marvel.gif" width="100%" />
