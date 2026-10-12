@@ -59,89 +59,63 @@
 <hr />
 <!-- TECH STACK SECTION -->
 <div align="center">
-  <h3>
-    <div>
-      TACTICAL TECH STACK
-    </div>
-    <br />
-    <div align="center">
-      <img src="./assets/Lucu2.gif" width="270" />
-    </div></h3>
+  <h3>TACTICAL TECH STACK</h3>
+  <br />
+  <img src="./assets/Lucu2.gif" width="270" alt="Tactical Tech Stack Animation" />
   <p>Tools and technologies I use to assemble digital solutions:</p>
   <br />
-<table>
-<tr>
-<td width="50%" valign="top">
- <!-- Frontend -->
-  <h3>Frontend <span>(The Interface)</span></h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" title="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React" />
-
-</td>
-
-<td width="50%" valign="top">
-  <!-- Backend & Database -->
-  <h3>Backend & Database <span>(The Arc Reactor)</span></h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="Laravel" title="Laravel" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="Apache" title="Apache" />
-
-</td>
-</tr>
-</table>
-  <!-- Frontend -->
-  <h3>Frontend <span>(The Interface)</span></h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" title="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React" />
-  
-  <br /><br />
-
-  <!-- Backend & Database -->
-  <h3>Backend & Database <span>(The Arc Reactor)</span></h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="Laravel" title="Laravel" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="Apache" title="Apache" />
-
-  <br /><br />
-
-  <!-- Tools & Design -->
-  <h3>Workspace & Design <span>(The Workshop)</span></h3>
-  <img src="https://img.shields.io/badge/Antigravity_IDE-1F2937?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity IDE" title="Antigravity IDE" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" title="Figma" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="Canva" title="Canva" />
-
-  <br /><br />
-
-  <!-- AI Assistants -->
-  <h3> AI Protocols <span>(J.A.R.V.I.S Assistants)</span></h3>
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" title="Claude AI" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Antigravity-1F2937?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity" title="Antigravity" />
 </div>
+
+<table  align="center" width="100%">
+  <colgroup>
+    <col width="50%" />
+    <col width="50%" />
+  </colgroup>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Frontend Languages</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="48" alt="HTML, CSS, JavaScript, TypeScript" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Backend Languages</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=ts,php" height="48" alt="TypeScript, PHP" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Database &amp; Data Storage</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres" height="48" alt="MySQL, PostgreSQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Frameworks &amp; Libraries</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=laravel,nextjs,tailwind,bootstrap" height="48" alt="Laravel, Next.js, Tailwind CSS, Bootstrap" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>IDE &amp; Code Editors</h3>
+      <p align="left">
+        <img src="./assets/Antigravity-Icon.svg" height="48" alt="Antigravity IDE" />
+        <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="Visual Studio Code" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Development Tools &amp; DevOps</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,nginx" height="48" alt="Git, GitHub, Vercel, Netlify, Nginx" />
+      </p>
+    </td>
+  </tr>
+</table>
+  
 
 <hr />
 <br />
