@@ -10,6 +10,7 @@
   My experience includes developing monitoring systems, dashboard applications, and digital solutions that help organizations improve service reliability, security, and user experience.
 </p>
 
+<hr />
 <br />
 <img align="right" src="./assets/sides_transparent.gif" width="270" />
 
@@ -56,20 +57,49 @@
 </table>
 
 <hr />
-
 <!-- TECH STACK SECTION -->
 <div align="center">
-  <h2>
+  <h3>
     <div>
-      Tactical Tech Stack
+      TACTICAL TECH STACK
     </div>
     <br />
     <div align="center">
       <img src="./assets/Lucu2.gif" width="270" />
-    </div></h2>
+    </div></h3>
   <p>Tools and technologies I use to assemble digital solutions:</p>
   <br />
+<table>
+<tr>
+<td width="50%" valign="top">
+ <!-- Frontend -->
+  <h3>Frontend <span>(The Interface)</span></h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React" />
 
+</td>
+
+<td width="50%" valign="top">
+  <!-- Backend & Database -->
+  <h3>Backend & Database <span>(The Arc Reactor)</span></h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="Laravel" title="Laravel" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="Apache" title="Apache" />
+
+</td>
+</tr>
+</table>
   <!-- Frontend -->
   <h3>Frontend <span>(The Interface)</span></h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
@@ -113,14 +143,15 @@
   <img src="https://img.shields.io/badge/Antigravity-1F2937?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity" title="Antigravity" />
 </div>
 
-<br />
 <hr />
-
+<br />
 <!-- STATS SECTION -->
 <div align="center">
-  <h2>Stark Industries Telemetry & Stats</h2>
-  <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PutuDio&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <h3>Stark Industries Telemetry & Stats</h3>
+  
+![](https://streak-stats.demolab.com/?user=PutuDio&theme=shadow_red&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PutuDio&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 <br />
