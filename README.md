@@ -119,27 +119,24 @@
   </tr>
 </table>
   
-
 <hr />
-<br />
 <!-- STATS SECTION -->
 <div align="center">
-  <h3>Stark Industries Telemetry & Stats</h3>
+  <h3>STARK INDUSTRIES TELEMENTRY & STATS</h3>
   
 ![](https://streak-stats.demolab.com/?user=PutuDio&theme=shadow_red&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PutuDio&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
-<br />
 <hr />
 
 <!-- MINI GAMES & CONTRIBUTION GRAPH -->
 <div align="center">
-  <h2>Arcade & Contribution Grid</h2>
+  <h3>ARCADE & CONTRIBUTION GRID </h3>
   <p>Watch the contribution bots in action:</p>
   <br />
-
+  
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/PutuDio/PutuDio/snake-output/snake.svg" alt="Snake animation" width="100%" />
 
@@ -153,17 +150,24 @@
   </picture>
 </div>
 
-<br />
 <hr />
 
 <!-- SOCIALS & CONTACT -->
 <div align="center">
-  <h2>Establish Connection</h2>
+  <h3>ESTABLISH CONNECTION</h3>
   <p>Need a developer for your next mission? Let's connect.</p>
   
-  <a href="mailto:putudiokenneta">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <div align="left">
+    <a href="https://www.instagram.com/putudiooo/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+    </a>
+    <a href="mailto:putudiokennetaU@gmail.com">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
+    </a>
+    <a href="https://wa.me/6281337366864" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
+    </a>
+  </div>
 </div>
 
 <br />
