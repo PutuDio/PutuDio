@@ -97,7 +97,7 @@
       <p align="left">
         <img src="./assets/Antigravity-Icon.svg" height="48" alt="Antigravity IDE" />
         <img src="https://skillicons.dev/icons?i=vscode,npm,pnpm" height="48" alt="Visual Studio Code, NPM, PNPM" />
-        <img src="./assets/laragonn.svg" height="48" alt="Laragon" />
+        <img src="./assets/laragon.svg" height="48" alt="Laragon" />
       </p>
     </td>
   </tr>
