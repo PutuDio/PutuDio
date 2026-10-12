@@ -60,9 +60,9 @@
 <!-- TECH STACK SECTION -->
 <div align="center">
   <h3>TACTICAL TECH STACK</h3>
+  <p>Tools and technologies I use to assemble digital solutions:</p>
   <br />
   <img src="./assets/Lucu2.gif" width="270" alt="Tactical Tech Stack Animation" />
-  <p>Tools and technologies I use to assemble digital solutions:</p>
   <br />
 </div>
 
@@ -73,44 +73,47 @@
   </colgroup>
   <tr>
     <td width="50%" valign="top">
-      <h3>Frontend Languages</h3>
+      <h3>Frontend Development</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="48" alt="HTML, CSS, JavaScript, TypeScript" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap" height="48" alt="HTML, CSS, JavaScript, TypeScript, Bootstrap" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Backend Languages</h3>
+      <h3>Backend Development</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=ts,php" height="48" alt="TypeScript, PHP" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Database &amp; Data Storage</h3>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres" height="48" alt="MySQL, PostgreSQL" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Frameworks &amp; Libraries</h3>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=laravel,nextjs,tailwind,bootstrap" height="48" alt="Laravel, Next.js, Tailwind CSS, Bootstrap" />
+        <img src="https://skillicons.dev/icons?i=ts,php,laravel,nextjs,tailwind" height="48" alt="TypeScript, PHP, Laravel, NextJs, Tailwind" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>IDE &amp; Code Editors</h3>
+      <h3>Database &amp; Web Server</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,nginx" height="48" alt="MySQL, PostgreSQL, Nginx" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Development Environment &amp; Package Managers</h3>
       <p align="left">
         <img src="./assets/Antigravity-Icon.svg" height="48" alt="Antigravity IDE" />
-        <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="Visual Studio Code" />
+        <img src="https://skillicons.dev/icons?i=vscode,npm,pnpm" height="48" alt="Visual Studio Code, NPM, PNPM" />
+        <img src="./assets/laragonn.svg" height="48" alt="Laragon" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Version Control &amp; Deployment</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" height="48" alt="Git, GitHub, Vercel, Netlify" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Development Tools &amp; DevOps</h3>
+      <h3>AI Agents &amp; Coding Assistants</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,nginx" height="48" alt="Git, GitHub, Vercel, Netlify, Nginx" />
+        <img src="./assets/claude-code-icon.svg" height="48" alt="Claude Code" />
+        <img src="./assets/gemini-icon.svg" height="48" alt="Gemini" />
+        <img src="./assets/chatgpt-icon.svg" height="48" alt="ChatGPT" />
       </p>
     </td>
   </tr>
