@@ -162,10 +162,10 @@
     <a href="https://www.instagram.com/putudiooo/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
     </a>
-    <a href="mailto:putudiokennetaU@gmail.com">
+    <a href="mailto:putudiokenneta@gmail.com">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
     </a>
-    <a href="https://wa.me/6281337366864" target="_blank">
+    <a href="https://wa.me/6287814831384" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
     </a>
   </div>
