@@ -76,13 +76,13 @@
     <td width="50%" valign="top">
       <h3>Frontend Development</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap" height="48" alt="HTML, CSS, JavaScript, TypeScript, Bootstrap" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,nextjs,tailwind" height="48" alt="HTML, CSS, JavaScript, Bootstrap, TypeScript, Tailwind" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>Backend Development</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=ts,php,laravel,nextjs,tailwind" height="48" alt="TypeScript, PHP, Laravel, NextJs, Tailwind" />
+        <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" height="48" alt="PHP, Laravel, NodeJs" />
       </p>
     </td>
   </tr>
