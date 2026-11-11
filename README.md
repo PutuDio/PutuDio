@@ -115,6 +115,8 @@
         <img src="./assets/claude-code-icon.svg" height="48" alt="Claude Code" />
         <img src="./assets/gemini-icon.svg" height="48" alt="Gemini" />
         <img src="./assets/chatgpt-icon.svg" height="48" alt="ChatGPT" />
+        <img src="./assets/omp-icon.svg" height="48" alt="OMP" />
+        <img src="./assets/orca-icon.svg" height="48" alt="Orca" />
       </p>
     </td>
   </tr>
