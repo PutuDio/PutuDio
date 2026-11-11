@@ -90,7 +90,8 @@
     <td width="50%" valign="top">
       <h3>Database &amp; Web Server</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,nginx" height="48" alt="MySQL, PostgreSQL, Nginx" />
+        <img src="https://skillicons.dev/icons?i=postgres,nginx" height="48" alt="PostgreSQL, Nginx" />
+        <img src="./assets/laragon.svg" height="48" alt="Laragon" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -98,7 +99,6 @@
       <p align="left">
         <img src="./assets/Antigravity-Icon.svg" height="48" alt="Antigravity IDE" />
         <img src="https://skillicons.dev/icons?i=vscode,npm,pnpm" height="48" alt="Visual Studio Code, NPM, PNPM" />
-        <img src="./assets/laragon.svg" height="48" alt="Laragon" />
       </p>
     </td>
   </tr>
