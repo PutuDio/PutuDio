@@ -76,7 +76,7 @@
     <td width="50%" valign="top">
       <h3>Frontend Development</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,nextjs,tailwind" height="48" alt="HTML, CSS, JavaScript, Bootstrap, TypeScript, Tailwind" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind" height="48" alt="HTML, CSS, JavaScript, TypeScript, Tailwind" />
       </p>
     </td>
     <td width="50%" valign="top">
